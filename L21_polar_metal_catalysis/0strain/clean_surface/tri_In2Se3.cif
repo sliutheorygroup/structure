@@ -1,0 +1,45 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Se In                                 '
+_cell_length_a                         4.064116
+_cell_length_b                         4.062020
+_cell_length_c                         50.000000
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      119.966743
+_cell_volume                           715.079392
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Se1        1.0     0.912748     0.450805     0.778931    Uiso  ? Se
+   Se2        1.0     0.578019     0.783789     0.718415    Uiso  ? Se
+   Se3        1.0     0.904360     0.449362     0.642860    Uiso  ? Se
+   Se4        1.0     0.229045     0.112349     0.583348    Uiso  ? Se
+   Se5        1.0     0.891768     0.444331     0.523177    Uiso  ? Se
+   Se6        1.0     0.210899     0.106188     0.447666    Uiso  ? Se
+   Se7        1.0     0.864989     0.437138     0.386431    Uiso  ? Se
+   Se8        1.0     0.529839     0.769971     0.326215    Uiso  ? Se
+   Se9        1.0     0.857958     0.434992     0.250496    Uiso  ? Se
+   In1        1.0     0.246579     0.117590     0.752028    Uiso  ? In
+   In2        1.0     0.570773     0.782722     0.667601    Uiso  ? In
+   In3        1.0     0.562645     0.779093     0.556535    Uiso  ? In
+   In4        1.0     0.876984     0.439325     0.472385    Uiso  ? In
+   In5        1.0     0.198304     0.103832     0.359671    Uiso  ? In
+   In6        1.0     0.524158     0.768200     0.275458    Uiso  ? In
