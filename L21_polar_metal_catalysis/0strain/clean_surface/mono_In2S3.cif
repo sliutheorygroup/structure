@@ -1,0 +1,50 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'mono_In2S3                            '
+_cell_length_a                         7.799300
+_cell_length_b                         7.799400
+_cell_length_c                         20.161699
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      59.999298
+_cell_volume                           1062.114935
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   In1        1.0     0.166827     0.167482     0.589161    Uiso  ? In
+   In2        1.0     0.333382     0.334417     0.789085    Uiso  ? In
+   In3        1.0     0.666827     0.167482     0.589161    Uiso  ? In
+   In4        1.0     0.833382     0.334417     0.789085    Uiso  ? In
+   In5        1.0     0.166827     0.667482     0.589161    Uiso  ? In
+   In6        1.0     0.333382     0.834417     0.789085    Uiso  ? In
+   In7        1.0     0.666827     0.667482     0.589161    Uiso  ? In
+   In8        1.0     0.833382     0.834417     0.789085    Uiso  ? In
+   S1         1.0     0.000161     0.000822     0.530810    Uiso  ? S
+   S2         1.0     0.166741     0.167691     0.708988    Uiso  ? S
+   S3         1.0     0.000049     0.001087     0.849956    Uiso  ? S
+   S4         1.0     0.500161     0.000822     0.530810    Uiso  ? S
+   S5         1.0     0.666741     0.167691     0.708988    Uiso  ? S
+   S6         1.0     0.500049     0.001087     0.849956    Uiso  ? S
+   S7         1.0     0.000161     0.500822     0.530810    Uiso  ? S
+   S8         1.0     0.166741     0.667691     0.708988    Uiso  ? S
+   S9         1.0     0.000049     0.501087     0.849956    Uiso  ? S
+   S10        1.0     0.500161     0.500822     0.530810    Uiso  ? S
+   S11        1.0     0.666741     0.667691     0.708988    Uiso  ? S
+   S12        1.0     0.500049     0.501087     0.849956    Uiso  ? S

@@ -1,0 +1,35 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Se In                                 '
+_cell_length_a                         4.074805
+_cell_length_b                         4.075027
+_cell_length_c                         48.000000
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      120.002930
+_cell_volume                           690.234074
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Se1        1.0     0.999601     0.999853     0.223898    Uiso  ? Se
+   Se2        1.0     0.000427     0.000157     0.365404    Uiso  ? Se
+   Se3        1.0     0.666510     0.333286     0.286588    Uiso  ? Se
+   In1        1.0     0.667199     0.333523     0.339290    Uiso  ? In
+   In2        1.0     0.332936     0.666526     0.251563    Uiso  ? In

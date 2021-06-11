@@ -1,0 +1,40 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'POSCAR                                '
+_cell_length_a                         4.068390
+_cell_length_b                         4.068390
+_cell_length_c                         48.000000
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      119.995186
+_cell_volume                           688.078627
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Se1        1.0     0.000066     0.999934     0.222293    Uiso  ? Se
+   Se2        1.0     0.999896     0.000104     0.363863    Uiso  ? Se
+   Se3        1.0     0.666641     0.333359     0.285201    Uiso  ? Se
+   Se4        1.0     0.333301     0.666699     0.426094    Uiso  ? Se
+   Se5        1.0     0.333431     0.666569     0.567608    Uiso  ? Se
+   Se6        1.0     0.000036     0.999964     0.488777    Uiso  ? Se
+   In1        1.0     0.666527     0.333473     0.338062    Uiso  ? In
+   In2        1.0     0.000069     0.999931     0.541603    Uiso  ? In
+   In3        1.0     0.333368     0.666632     0.250184    Uiso  ? In
+   In4        1.0     0.666655     0.333345     0.453856    Uiso  ? In

@@ -1,0 +1,50 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'In2Te3                                '
+_cell_length_a                         8.665675
+_cell_length_b                         8.665675
+_cell_length_c                         37.331242
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      120.000259
+_cell_volume                           2427.765533
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   In1        1.0     0.333331     0.166669     0.617352    Uiso  ? In
+   In2        1.0     0.166667     0.333333     0.496082    Uiso  ? In
+   In3        1.0     0.333331     0.666669     0.617352    Uiso  ? In
+   In4        1.0     0.166667     0.833333     0.496082    Uiso  ? In
+   In5        1.0     0.833331     0.166669     0.617352    Uiso  ? In
+   In6        1.0     0.666667     0.333333     0.496082    Uiso  ? In
+   In7        1.0     0.833331     0.666669     0.617352    Uiso  ? In
+   In8        1.0     0.666667     0.833333     0.496082    Uiso  ? In
+   Te1        1.0     0.333333     0.166667     0.543944    Uiso  ? Te
+   Te2        1.0     0.999999     0.000001     0.654653    Uiso  ? Te
+   Te3        1.0     0.000000     1.000000     0.456189    Uiso  ? Te
+   Te4        1.0     0.333333     0.666667     0.543944    Uiso  ? Te
+   Te5        1.0     0.999999     0.500001     0.654653    Uiso  ? Te
+   Te6        1.0     0.000000     0.500000     0.456189    Uiso  ? Te
+   Te7        1.0     0.833333     0.166667     0.543944    Uiso  ? Te
+   Te8        1.0     0.499999     0.000001     0.654653    Uiso  ? Te
+   Te9        1.0     0.500000     1.000000     0.456189    Uiso  ? Te
+   Te10       1.0     0.833333     0.666667     0.543944    Uiso  ? Te
+   Te11       1.0     0.499999     0.500001     0.654653    Uiso  ? Te
+   Te12       1.0     0.500000     0.500000     0.456189    Uiso  ? Te
